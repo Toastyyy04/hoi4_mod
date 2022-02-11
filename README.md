@@ -1,8 +1,8 @@
 # hoi4_mod
 
-Авторы:
+# Авторы:
 - Kolbergs
 - Revolt
 - Pindos
 - Toastyyy
-- 
+
