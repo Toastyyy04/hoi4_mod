@@ -6,3 +6,5 @@
 - Pindos
 - Toastyyy
 
+## Цели:
+[x] 
